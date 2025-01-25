@@ -51,7 +51,7 @@ The application provides an interactive and visually appealing interface to expl
 ### Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/KirstenSotelo/Personal-Projects/tree/main/SpotifyAPI
+   git clone https://github.com/KirstenSotelo/Spotistics
    cd spotistics```
 2. Install dependencies:
    ```bash
